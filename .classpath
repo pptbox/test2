@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/ueditor"/>
+	<classpathentry kind="src" path="src/crontab"/>
+	<classpathentry kind="src" path="src/sqllite"/>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jsch-0.1.53.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jedis-2.8.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/fastjson-1.2.11.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/IKAnalyzer2012_u6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/lucene-analyzers-3.6.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/lucene-core-3.6.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/lucene-highlighter-3.6.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/lucene-memory-3.6.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/lucene-queries-3.6.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/ueditor/jsp/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="WebRoot/ueditor/jsp/lib/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/ueditor/jsp/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/ueditor/jsp/lib/json.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/slf4j-api-1.7.14.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/concurrentlinkedhashmap-lru-1.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/slf4j-log4j12-1.7.14.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/freemarker-2.3.16.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jaxen.jar"/>
+	<classpathentry kind="lib" path="/PicText-Push/lib/bcprov-jdk16-145-1.jar"/>
+	<classpathentry kind="lib" path="/PicText-Push/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
